@@ -1,2 +1,1 @@
-# BRSS-FANET
-UAV journal
+
